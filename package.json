@@ -1,0 +1,11 @@
+{
+  "name": "syra-protocol",
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
+  "description": "Rule-based utility protocol for deterministic execution and market discipline",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SYRA-Labs/syra-protocol"
+  }
+}
