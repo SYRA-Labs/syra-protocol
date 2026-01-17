@@ -21,7 +21,7 @@ the canonical protocol documentation.
 
 All protocol behavior is defined in the SYRA Documentation:
 
-https://syra-website.vercel.app/docs
+https://syra.io/docs
 
 If a proposed change is not explicitly described in the documentation,
 it must not be implemented.

@@ -96,6 +96,6 @@ Excluded:
 ## Documentation
 
 The SYRA Documentation is the canonical reference for protocol behavior:
-https://syra-website.vercel.app/docs
+https://syra.io/docs
 
 If discrepancies arise, the documentation takes precedence.
